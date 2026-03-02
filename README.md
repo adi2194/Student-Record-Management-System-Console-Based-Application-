@@ -9,4 +9,4 @@ A for loop is used for searching and displaying students.
 Grades are calculated using conditional statements based on average marks.
 Duplicate roll numbers are prevented using a validation check.
 The program demonstrates concepts of lists, dictionaries, loops, and functions.
-AI tools were used for structure guidance, but the logic and understanding were verified.
+
